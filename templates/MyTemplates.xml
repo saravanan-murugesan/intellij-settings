@@ -1,0 +1,7 @@
+<templateSet group="MyTemplates">
+  <template name="nt" value="@org.junit.Test&#10;public void test$END$() throws Throwable {&#10;    &#10;} " description="new junit Test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

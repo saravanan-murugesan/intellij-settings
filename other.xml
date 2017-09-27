@@ -1,0 +1,22 @@
+<application>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="true" url="https://jira.corp.yahoo.com">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfe9dfcedfcddfc3dfc6dfc7dfdadfd8dfdfdfdcdfd3df9bdf8b</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="6.4.14" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>saravm</username>
+    </JIRA>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+</application>
