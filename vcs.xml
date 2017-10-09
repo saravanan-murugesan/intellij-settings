@@ -10,6 +10,10 @@
           <option name="url" value="git@git.corp.yahoo.com:saravm/raml-docs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.corp.yahoo.com:urs/urs_mstr_optout_ws.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Work/git" />
