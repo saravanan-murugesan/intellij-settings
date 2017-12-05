@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="testkey" type="PLAIN_TEXT" />
       <mapping pattern="keystore" type="PLAIN_TEXT" />
+      <mapping ext="allow" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
