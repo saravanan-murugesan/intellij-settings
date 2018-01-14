@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="keystore" type="PLAIN_TEXT" />
       <mapping pattern="testkey" type="PLAIN_TEXT" />
+      <mapping pattern="akamai" type="PLAIN_TEXT" />
       <mapping ext="allow" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
