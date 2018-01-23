@@ -10,6 +10,7 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="yidf" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="uml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
