@@ -7,7 +7,6 @@
       <mapping pattern="akamai" type="PLAIN_TEXT" />
       <mapping ext="allow" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="yidf" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
