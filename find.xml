@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'identity-provider-plugin'" />
-    <option name="defaultScopeName" value="Project 'identity-provider-plugin'" />
+    <option name="customScope" value="File '.../src/main/java/com/oath/guce/rest/apis/editConsent/EditConsentApi.java [guce_main]'" />
+    <option name="defaultScopeName" value="File '.../src/main/java/com/oath/guce/rest/apis/editConsent/EditConsentApi.java [guce_main]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'identity-provider-plugin'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/oath/guce/rest/apis/editConsent/EditConsentApi.java [guce_main]'" />
   </component>
 </application>
