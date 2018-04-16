@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../src/main/java/com/oath/guce/util/DeviceCatalogUtil.java [guce_main]'" />
     <option name="defaultScopeName" value="File '.../src/main/java/com/oath/guce/util/DeviceCatalogUtil.java [guce_main]'" />
+    <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/oath/guce/util/DeviceCatalogUtil.java [guce_main]'" />
   </component>
 </application>
