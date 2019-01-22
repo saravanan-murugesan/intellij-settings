@@ -150,8 +150,12 @@
           <option name="url" value="git@git.ouroath.com:saravm/serverless-lambdacore.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.ouroath.com:sureshtl/rewards-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work/fusion" />
+    <option name="cloneParentDir" value="$USER_HOME$/work/git" />
   </component>
 </application>
