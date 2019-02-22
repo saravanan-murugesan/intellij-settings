@@ -158,6 +158,10 @@
           <option name="url" value="git@git.ouroath.com:saravm/raml-docs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.ouroath.com:saravm/canonical_profile-chef-cookbook.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/git" />
