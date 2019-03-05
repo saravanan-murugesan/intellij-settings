@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="keystore" type="PLAIN_TEXT" />
       <mapping pattern="testkey" type="PLAIN_TEXT" />
