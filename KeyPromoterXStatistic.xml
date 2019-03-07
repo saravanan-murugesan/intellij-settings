@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>15</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
