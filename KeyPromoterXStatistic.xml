@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>57</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -135,6 +135,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'testPatchConsentRe...()'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testThatUpdatedUse...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'testThatUpdatedUse...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Reformat File Dialog">
