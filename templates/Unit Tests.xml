@@ -1,0 +1,7 @@
+<templateSet group="Unit Tests">
+  <template name="ne" value="new mockit.Expectations(){{&#10;    $END$&#10;}};" description="new Expectations block" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
